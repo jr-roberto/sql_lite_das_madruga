@@ -44,3 +44,5 @@ while True:
             continue
 
     os.system("cls")
+
+##teste*
